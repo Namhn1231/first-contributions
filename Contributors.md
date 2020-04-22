@@ -8,6 +8,7 @@
 - [Paulo Farias](https://github.com/paulovgf)
 - [Aradhya Mehta](https://github.com/aradhya-mehta)
 - [Ethan Glover](https://github.com/eglove)
+- [Nam Nguyen](https://github.com/Namhn1231)
 - [Priya Patel](https://github.com/PRXYA)
 - Sid
 - [Tatiana Faramarzi](https://github.com/tfaramar)
